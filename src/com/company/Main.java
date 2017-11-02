@@ -19,7 +19,7 @@ public class Main {
         Ordrearkiv ordrearkiv = new Ordrearkiv();
         Menu menu = new Menu();
 
-        //indlæs databaser
+        //indlæs databaser.
         ordrearkiv.laesData();
         menu.laesMenu();
 

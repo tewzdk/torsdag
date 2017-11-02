@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Main {
 
-    //init scanner
+    //init scanner.
     public static Scanner in = new Scanner(System.in).useDelimiter("\\n");
 
     //bool til at afslutte programmet.

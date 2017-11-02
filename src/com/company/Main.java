@@ -9,7 +9,7 @@ public class Main {
     //init scanner.
     public static Scanner in = new Scanner(System.in).useDelimiter("\\n");
 
-    //bool til at afslutte programmet.
+    //bool til at afslutte program
     private static boolean programmetAfsluttes = false;
 
     public static void main(String[] args) {
